@@ -1,6 +1,6 @@
 # Hi there I am Vishal👋
 ## 💫 About Me:
-Adventurer in the realm of Cloud and DevOps | Docker | Kubernetes | Microsoft Azure | Terraform | GitHub | GitHub Actions | Python | JavaScript | Linux
+Adventurer in the realm of Cloud and DevOps | Docker | Kubernetes | Microsoft Azure | Terraform | GitHub | GitHub Actions | Python | JavaScript | Linux  
 I like to work with new tools and technologies and explore the awesome and unique landscape of Cloud and Devops. 
 
 
