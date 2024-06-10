@@ -1,7 +1,14 @@
 # Hi there I am Vishal👋
 ## 💫 About Me:
-Adventurer in the realm of Cloud and DevOps | Docker | Kubernetes | Microsoft Azure | Terraform | GitHub | GitHub Actions | Python | JavaScript | Linux  
-I like to work with new tools and technologies and explore the awesome and unique landscape of Cloud and Devops. 
+Greetings! 👋 I'm Vishal, a dedicated Cloud/DevOps enthusiast passionate about revolutionizing software development and IT operations through seamless integration. With a strong foundation in both development and operations, I thrive in the dynamic world of DevOps. My journey is fueled by a relentless pursuit of excellence and a commitment to continuous improvement.
+
+Key Skills:  
+Automation: Advocating for automation, I streamline workflows and reduce manual intervention using cutting-edge tools and technologies like Python, Docker, Kubernetes, GitHub Action, Terraform, Ansible and SQL.
+
+Cloud Expertise: Proficient in Azure(2x certified) and AWS.
+
+Current Focus:
+Currently immersed in GitOps with ArgoCD and learning more about LangChain for developing AI tools.
 
 
 ## 🌐 Socials:
