@@ -9,6 +9,9 @@ Eager to connect with like-minded professionals, exchange ideas, and contribute 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-lokam/) 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Flokam_vishal&label=%20)
+
+
 
 ## 💻 Expertise
 - GenAI
