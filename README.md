@@ -1,14 +1,17 @@
 # Hi there I am Vishal👋
-## 💫 About Me:
-Greetings! 👋 I'm Vishal, an enthusiast passionate about being a part of revolution that is occurring in software development and IT operations through seamless integration of GenAI with traditional workflows. With a strong foundation in both development and operations, I thrive in the dynamic world of technology. 
+I’m a GenAI Platform Engineer focused on building scalable AI platforms, infrastructure, and developer experiences for enterprise teams. I currently work at Schaeffler, where I build and operate GenAI infrastructure supporting more than 200 development teams.
 
-Advocating for automation, I streamline workflows and reduce manual intervention using cutting-edge tools and technologies like GenAI, Agents, Python, Docker, Kubernetes, GitHub Action and Terraform
+My work spans the GenAI platform stack, including Azure AI Foundry, Azure OpenAI, Azure AI Search, Azure Document Intelligence, AKS, Docker, Terraform, Jenkins, and secure cloud networking. I work with the latest LLM capabilities from providers such as OpenAI and DeepSeek, including text, embedding, audio, and image models, and help teams deploy and integrate these capabilities into production-ready solutions.
 
-Eager to connect with like-minded professionals, exchange ideas, and contribute to the vibrant GenAI community. Whether you're seasoned or just starting your journey, feel free to reach out.
+I also design and operate agentic AI platforms for business process automation, combining Azure Logic Apps, Azure Functions, Azure OpenAI, Key Vault, Storage, and private networking. I develop GenAI applications using Python and FastAPI, with a focus on Retrieval-Augmented Generation (RAG) and Model Context Protocol (MCP).
+
+Beyond Azure, I’ve worked on multi-cloud GenAI architectures for enterprise agentic AI using Amazon Bedrock, AgentCore, Bedrock Knowledge Bases, AWS IAM, and related AWS services.
+
+A significant part of my role involves helping internal engineering teams adopt GenAI effectively. I provide technical onboarding, architecture guidance, and recommendations around secure, scalable, and cost-optimized deployments. I also contribute reusable GenAI components and infrastructure modules to company-wide resource libraries, helping accelerate adoption across teams.
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-lokam/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-lokam/)   
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Flokam_vishal&label=%20)
 
 
@@ -16,7 +19,11 @@ Eager to connect with like-minded professionals, exchange ideas, and contribute 
 ## 💻 Expertise
 - GenAI
 - Agents
-- Terraform
+- RAG
 - Microsoft Azure
+- AWS
+- Terraform
 - Kubernetes
+- Docker
+- GitHub Actions
 - Python
