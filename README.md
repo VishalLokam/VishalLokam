@@ -15,15 +15,3 @@ A significant part of my role involves helping internal engineering teams adopt 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Flokam_vishal&label=%20)
 
 
-
-## 💻 Expertise
-- GenAI
-- Agents
-- RAG
-- Microsoft Azure
-- AWS
-- Terraform
-- Kubernetes
-- Docker
-- GitHub Actions
-- Python
