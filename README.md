@@ -1,5 +1,5 @@
 # Hi there I am Vishal👋
-I’m a GenAI Platform Engineer focused on building scalable AI platforms, infrastructure, and developer experiences for enterprise teams. I currently work at Schaeffler, where I build and operate GenAI infrastructure supporting more than 200 development teams.
+I’m a GenAI Platform Engineer focused on building scalable Agentic platforms and infrastructure for enterprise teams. I currently work at Schaeffler, where I build and operate GenAI and Agentic infrastructure supporting more than 200 development teams.
 
 My work spans the GenAI platform stack, including Azure AI Foundry, Azure OpenAI, Azure AI Search, Azure Document Intelligence, AKS, Docker, Terraform, Jenkins, and secure cloud networking. I work with the latest LLM capabilities from providers such as OpenAI and DeepSeek, including text, embedding, audio, and image models, and help teams deploy and integrate these capabilities into production-ready solutions.
 
